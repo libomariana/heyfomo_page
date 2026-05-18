@@ -1,0 +1,6 @@
+# Stažené zálohy stránky (nejsou součástí článku k nasazení)
+BEAUTY NEWS*
+*_files/
+
+.DS_Store
+.vercel
